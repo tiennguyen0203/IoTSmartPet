@@ -1,9 +1,13 @@
 # IoTSmartPet
 IoT and Application prject
+
+
 Aduino:
 - Install Arduino IDE
 - Install library:
-- Connect ESP32 board(esp-wroom-32) with computer by cable to upload code. 
+- Connect ESP32 board(esp-wroom-32) with computer by cable to upload code.
+
+
 MobileApp part:
 - install dev dependencies: **npm install**
 - run the app: **npm start**
